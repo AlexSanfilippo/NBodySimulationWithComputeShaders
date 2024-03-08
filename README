@@ -1,0 +1,12 @@
+
+
+===REQUIRED PACKAGES===
+PyOpenGL
+glfw
+numpy
+pillow
+pyrr
+PyGLM
+
+===HOW TO RUN===
+Run the script NBodySimulation.py
